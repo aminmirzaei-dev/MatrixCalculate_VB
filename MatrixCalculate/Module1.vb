@@ -71,7 +71,7 @@ Module Module1
         System.Console.ForegroundColor = ConsoleColor.Magenta
         System.Console.WriteLine("------------------------------")
         System.Console.ForegroundColor = ConsoleColor.Red
-        System.Console.WriteLine("Programmer : Amin Mirzaei - Github(UserName) : AminMirzaeiOne")
+        System.Console.WriteLine("Programmer : Amin Mirzaei - Github(UserName) : aminmirzaei-dev Instagram(UserName) : aminmirzaei.dev")
 
 
         System.Console.ReadKey()
