@@ -1,6 +1,6 @@
 ﻿Imports System
 
-Module Module1
+Module Start
 
     Sub Main()
         ' Declare variables for the number of rows and columns.
